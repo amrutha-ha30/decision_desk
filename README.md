@@ -1,9 +1,9 @@
 
 # 💰 Decision Desk — Think Before You Borrow
 
-### A FinTech Solution for Smarter Emergency Borrowing Decisions
+A FinTech Solution for Smarter Emergency Borrowing Decisions
 
-## 📌 About the Project
+📌 About the Project
 
 **Decision Desk** is a FinTech-based prototype designed to help people make smarter and more responsible financial decisions before borrowing money.
 
